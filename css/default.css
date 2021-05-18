@@ -1,5 +1,4 @@
 @import url('reset.css');
-@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
 
 /* ------ layout
 -----------------------------------------------*/
@@ -34,7 +33,7 @@ body {
 }
 
 #content h1 {
-	font-family: 'Cabin Sketch', arial, serif;
+	font-family: cursive;
 	text-shadow: 3px 3px 0 #ddd;
 	color: #193340;
 	font-size: 40px;
